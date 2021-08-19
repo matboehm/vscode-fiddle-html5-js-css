@@ -1,0 +1,24 @@
+{
+  "name": "vscode-fiddle-html5-js-css",
+  "version": "1.0.0",
+  "description": "VS Code Fiddle with HTML5 + Vanilla JS + CSS is a small boilerplate for rapid prototyping for webdevelopment",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matthib/vscode-fiddle-html5-js-css"
+  },
+  "keywords": [
+    "vscode",
+    "fiddle",
+    "html5",
+    "js",
+    "css",
+    "web",
+    "development"
+  ],
+  "author": "Matthias Böhm",
+  "license": "MIT"
+}
